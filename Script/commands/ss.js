@@ -8,9 +8,9 @@ const baseApiUrl = async () => {
 };
 
 module.exports.config = {
-  name: "ss",
+  name: "kabbo",
   version: "1.0.0",
-  credits: "Dipto",
+  credits: "moriom",
   role: 0,
   hasPermssion: 0,
   usePrefix: true,
