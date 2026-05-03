@@ -2,7 +2,7 @@ module.exports.config = {
   name: "bday",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "SHAHADAT SAHU",
+  credits: "kabbo 420",
   description: "Admin birthday",
   usePrefix: false,
   commandCategory: "bday",
@@ -50,17 +50,17 @@ module.exports.run = async ({ api, event }) => {
 ║ ❤️ দোয়া ও ভালোবাসা জানাও
 ╟──────────────────────
 ║ 📘 Facebook :
-║ www.facebook.com/100044713412032
+║ kabbo
 ║ 💬 Messenger :
-║ m.me/100044713412032
+║ nei 😒
 ║ 📱 WhatsApp :
-║ https://wa.me/+8801882333052
+║ nei🐸
 ╚══════════════════════╝`;
     return api.sendMessage(happyBirthdayMessage, event.threadID, event.messageID);
   }
 
   const countdownMessage = `╔═══════════════════╗
-║ 🎂 Admin SHAHADAT SAHU
+║ 🎂 Admin kabbo 420
 ║ জন্মদিন কাউন্টডাউন ❤️‍🔥
 ║═══════════════════
 ║ 📅 Days : ${diffDays}
