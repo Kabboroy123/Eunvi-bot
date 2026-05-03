@@ -2,7 +2,7 @@ module.exports.config = {
   name: "font",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "SHAHADAT SAHU",
+  credits: "kabbo 420",
   description: "Convert text into fonts",
   commandCategory: "Others",
   usages: "<1-10> <text>",
@@ -30,16 +30,16 @@ module.exports.run = async ({ event, api, args }) => {
 `┏━━━━━━━━━━━━━━━━━━━┓
 ┃    🌸AVAILABLE FONTS🌸
 ┣━━━━━━━━━━━━━━━━━━━┫
-┃ 1) 𝚂𝙷𝙰𝙷𝙰𝙳𝙰𝚃 𝚂𝙰𝙷𝚄
-┃ 2) ＳＨＡＨＡＤＡΤ ＳＡＨＵ
-┃ 3) 🅂🄷🄰🄷🄰🄳🄰🅃 🅂🄰🄷🅄
-┃ 4) 🅢🅗🅐🅗🅐🅓🅐🅣 🅢🅐🅗🅤
-┃ 5) 🆂🅷🅰🅷🅰🅳🅰🆃 🆂🅰🅷🆄
-┃ 6) 𝙎 𝙃 𝘼 𝙃 𝘼 𝘿 𝘼 𝙏 𝙎 𝘼 𝙃 𝙐
-┃ 7) 𝗦𝗛𝗔𝗛𝗔𝗗𝗔𝗧 𝗦𝗔𝗛𝗨
-┃ 8) 𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐓 𝐒𝐀𝐇𝐔
-┃ 9) 𝖲𝖧𝖠𝖧𝖠𝖣𝖠𝖳 𝖲𝖠𝖧𝖴
-┃10) 𝕊ℍ𝔸ℍ𝔸𝔻𝔸𝕋 𝕊𝔸ℍ𝕌
+┃ 1) kabbo 420
+┃ 2) 𝗞𝗮𝗯𝗯𝗼
+┃ 3) 🇰 🇦 🇧 🇧 🇴 
+┃ 4) ᵏᵃᵇᵇᵒ
+┃ 5) 𝖐𝖆𝖇𝖇𝖔
+┃ 6) 🅺︎🅰︎🅱︎🅱︎🅾︎
+┃ 7) 𝚔𝚊𝚋𝚋𝚘
+┃ 8) ᴋᴀʙʙᴏ
+┃ 9) 𝕜𝕒𝕓𝕓𝕠
+┃10) 𝓴𝓪𝓫𝓫𝓸
 ┣━━━━━━━━━━━━━━━━━━━┫
 ┃Use: Reply font <1-10>
 ┗━━━━━━━━━━━━━━━━━━━┛`,
