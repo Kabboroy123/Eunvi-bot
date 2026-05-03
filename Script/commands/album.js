@@ -13,7 +13,7 @@ module.exports.config = {
  name: "album",
  version: "1.0.0",
  hasPermssion: 0,
- credits: "Dipto Modified By SAHU", 
+ credits: "moriom Modified By 420", 
  description: "Displays album options for selection.",
  usePrefix: true,
  prefix: true,
