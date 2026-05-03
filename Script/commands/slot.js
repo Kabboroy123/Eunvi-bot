@@ -2,7 +2,7 @@ module.exports.config = {
     name: "slot",
     version: "1.1.0",
     hasPermssion: 0,
-    credits: "SHAHADAT SAHU",
+    credits: "kabbo 420",
     description: "slot machine game",
     commandCategory: "game",
     usages: "[bet amount]",
