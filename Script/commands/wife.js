@@ -6,7 +6,7 @@ module.exports.config = {
   name: "wife",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "SHAHADAT SAHU",
+  credits: "kabbo",
   description: "Generate a couple banner image using sender and target Facebook UID via Avatar Canvas API",
   commandCategory: "banner",
   usePrefix: true,
@@ -31,7 +31,7 @@ module.exports.run = async function ({ event, api }) {
 
   try {
     const apiList = await axios.get(
-      "https://raw.githubusercontent.com/shahadat-sahu/SAHU-API/refs/heads/main/SAHU-API.json"
+      "https://raw.githubusercontent.com/kabbo/SAHU-API/refs/heads/main/SAHU-API.json"
     );
 
     const AVATAR_CANVAS_API = apiList.data.AvatarCanvas;
