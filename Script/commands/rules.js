@@ -2,7 +2,7 @@ module.exports.config = {
  name: "rules",
  version: "1.0.0",
  hasPermssion: 0,
- credits: "SHAHADAT SAHU",
+ credits: "kabbo 420",
  description: "Send group rules",
  commandCategory: "information",
  usages: "rules2",
@@ -32,7 +32,7 @@ module.exports.run = async ({ api, event }) => {
 𝙱𝙾𝚃 𝙰𝙳𝙼𝙸𝙽: SHAHADAT SAHU
 𝙵𝙱 𝙻𝙸𝙽𝙺: https://www.facebook.com/100044713412032
 
-_সাথেই থাকুন 🌺─꯭─⃝‌‌𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭🌸_
+_সাথেই থাকুন 🌺─꯭─⃝‌kabbo 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭🌸_
 
 💖...........ধন্যবাদ সবাইকে...........💖`;
 
