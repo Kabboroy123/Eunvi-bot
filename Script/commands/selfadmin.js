@@ -1,5 +1,5 @@
 module.exports.config = {
-	name: "self",
+	name: "moriom",
 	version: "1.0.5",
 	hasPermssion: 2, 
 	credits: "Mirai Team",
@@ -142,4 +142,4 @@ module.exports.run = async function ({ api, event, args, Users, permssion, getTe
  return global.utils.throwError(this.config.name, threadID, messageID);
  }
  };
-}
+}module
