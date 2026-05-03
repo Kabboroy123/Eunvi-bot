@@ -2,7 +2,7 @@ module.exports.config = {
   'name': "bts",
   'version': "1.0.2",
   'hasPermission': 0x2,
-  'credits': "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
+  'credits': "Eunvi ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
   'description': '',
   'commandCategory': "admin",
   'usages': "[tag]",
